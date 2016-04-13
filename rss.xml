@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[MauiRedWeek]]></title>
+        <description><![CDATA[MauiRedWeek]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 13 Apr 2016 17:43:04 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Hi Gordon! I just wanted to let you know how much we loved the one bedroom unit at the Maui Westin North. The view was amazing!!!! We had a great time and want to thank you for getting us that room. It was absolutely beautiful!!!</p>]]></description>
+            <link>undefinedhi-gordon-i-just-wanted-to-let-you-know-how-much-we-loved-t/index.html</link>
+            <guid isPermaLink="false">54e3a845-3b07-4c49-ae2d-6f87086111ab</guid>
+            <pubDate>Wed, 13 Apr 2016 17:43:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
